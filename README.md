@@ -42,7 +42,7 @@ Najlepszy wynik uzyskano za pomocą modelu **BART**:
 
 Kod projektu został przygotowany w języku **R** jako notebook lub skrypt.
 
-[Zobacz kod](kod Statistical Learning.R)
+[Zobacz kod](Kod.R)
 
 ---
 
@@ -53,6 +53,6 @@ Pełny raport (PDF) zawiera:
 - wykresy i interpretacje,
 - porównanie wyników modeli.
 
-[Pobierz raport](Raport.pdf)
+[Zobacz raport](Raport.pdf)
 
 ---
