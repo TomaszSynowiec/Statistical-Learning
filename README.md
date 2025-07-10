@@ -53,6 +53,6 @@ Pełny raport (PDF) zawiera:
 - wykresy i interpretacje,
 - porównanie wyników modeli.
 
-[Pobierz raport](Raport Statistical Learning.pdf)
+[Pobierz raport](Raport.pdf)
 
 ---
